@@ -234,6 +234,7 @@ transition: all 0.3s ease;
     @media screen and (max-width : 1110px) {
         .navs1 {
             padding: 0;
+            margin-bottom: 10px;
         }
     
         .navs1 .nav-hamburger {
@@ -315,7 +316,7 @@ transition: all 0.3s ease;
     width: 1000px;
     height: 1000px;
 }
-@media screen and (max-width : 500px){
+@media screen and (max-width : 700px){
     .slidedonate{
         padding-left: 26px;
         padding-right: 30px;
@@ -342,7 +343,7 @@ transition: all 0.3s ease;
     font-size: 20px;
     color: white;
 }
-@media screen and (max-width:500px){
+@media screen and (max-width:700px){
     
     .donate-bg-container{
         text-align: start;
@@ -378,6 +379,27 @@ transition: all 0.3s ease;
     border-color: #f83455;
 }
 
+.aboutus-card-new{
+    padding: 10px;
+    background-color: #f83455;
+    margin: 10px;
+    border-style: solid;
+    border-width: 0px;
+    border-bottom-width: 5px;
+    border-color: #f83455;
+    padding-bottom: 20px;
+}
+.aboutus-card-new1{
+    padding: 10px;
+    background-color: #f83455;
+    margin: 10px;
+    border-style: solid;
+    border-width: 0px;
+    border-bottom-width: 5px;
+    border-color: #f83455;
+    padding-bottom: 70px;
+}
+
 .aboutus-card:hover{
     border-color: black;
     border-radius: 5px;
@@ -392,6 +414,7 @@ transition: all 0.3s ease;
     padding: 10px;
     text-align: center;
 }
+
 .aboutus-para{
     font-size: 14px;
     
@@ -430,7 +453,7 @@ transition: all 0.3s ease;
 .second-section1{
     padding: 20px;
 }
-@media screen and (max-width:500px){
+@media screen and (max-width:700px){
     .second-section-part1{
         flex-direction: column;
         padding: 20px;
@@ -509,7 +532,7 @@ transition: all 0.3s ease;
     padding: 20px;
     margin: 20px;
 }
-@media screen and (max-width:500px){
+@media screen and (max-width:700px){
     .aboutus-second-section{
         padding: 5px;
     margin: 5px;

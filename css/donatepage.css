@@ -237,6 +237,7 @@ transition: all 0.3s ease;
     @media screen and (max-width : 1110px) {
         .navs1 {
             padding: 0;
+            margin-bottom: 10px;
         }
     
         .navs1 .nav-hamburger {
@@ -318,7 +319,7 @@ transition: all 0.3s ease;
     width: 1000px;
     height: 1000px;
 }
-@media screen and (max-width : 500px){
+@media screen and (max-width : 700px){
     .slidedonate{
         padding-left: 26px;
         padding-right: 30px;
@@ -365,7 +366,7 @@ transition: all 0.3s ease;
     box-shadow: 0 1.4rem 8rem rgba(0, 0, 0, 0.2);
     margin: 100px;
 }
-@media screen and (max-width:500px){
+@media screen and (max-width:700px){
     .second-section-part1{
         flex-direction: column;
         padding: 20px;

@@ -630,6 +630,7 @@ transition: all 0.3s ease;
     @media screen and (max-width : 1110px) {
         .navs1 {
             padding: 0;
+            margin-bottom: 10px;
         }
     
         .navs1 .nav-hamburger {
@@ -711,7 +712,7 @@ transition: all 0.3s ease;
     width: 1000px;
     height: 1000px;
 }
-@media screen and (max-width : 500px){
+@media screen and (max-width : 700px){
     .slidedonate{
         padding-left: 26px;
         padding-right: 30px;
@@ -750,7 +751,7 @@ transition: all 0.3s ease;
   font-size: 20px;
   color: white;
 }
-@media screen and (max-width:500px){
+@media screen and (max-width:700px){
   
   .donate-bg-container{
       text-align: start;
