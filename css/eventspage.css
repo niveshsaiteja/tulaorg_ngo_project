@@ -66,6 +66,15 @@ nav ul li {
     padding: 10px 20px;
 }
 
+@media screen and (max-width:1350px){
+    nav ul li{
+        padding: 5px 8px;
+    }
+    .logo12{
+        font-size: 22px;
+    }
+}
+
 .slidedonate {
     background-color: #ea1538;
     padding-left: 30px;

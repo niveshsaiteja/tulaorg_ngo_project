@@ -110,6 +110,15 @@ nav ul li {
     padding: 10px 10px;
 }
 
+@media screen and (max-width:1350px){
+    nav ul li{
+        padding: 5px 8px;
+    }
+    .logo12{
+        font-size: 22px;
+    }
+}
+
 .slide-corousel {
 
     font-weight: bold;
