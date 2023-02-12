@@ -1001,6 +1001,7 @@ transition: all 0.3s ease;
     .logo12{
         font-size: 19px;
         padding-right: 80px;
+        padding-left: 0px;
     }
     }
 
@@ -3734,6 +3735,7 @@ transition: all 0.3s ease;
   .logo12{
     font-size: 19px;
     padding-right: 80px;
+    padding-left: 0px;
 }
  
 }
