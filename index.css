@@ -3809,3 +3809,12 @@ background-color: #cb1a1a;
 /*--------------top down btn------------------*/
 
 /*------------------ gallery css-------------------------*/
+
+.footer-logo{
+    width: 200px;
+    height: 200px;
+}
+.footer-para{
+    color: white;
+    font-size: 15px;
+}
