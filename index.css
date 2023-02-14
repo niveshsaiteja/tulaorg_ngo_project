@@ -3813,6 +3813,7 @@ background-color: #cb1a1a;
 .footer-logo{
     width: 200px;
     height: 200px;
+    padding: 30px;
 }
 .footer-para{
     color: white;
