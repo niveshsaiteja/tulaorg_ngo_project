@@ -3066,7 +3066,7 @@ a:hover {
 /*Welcome Section End*/
 
 /*Below We teach them.....(Cards) Starts*/
-.services .container {
+.services .containergallery {
   padding-bottom: 15px;
 }
 .services .icon-box {
@@ -3823,7 +3823,7 @@ background-color: #cb1a1a;
 
 
 /*-------------------------- contact us ---------------------------*/
-section{
+.section-contactus{
     display : flex;
     justify-content:center;
     align-items:center;
@@ -3831,7 +3831,7 @@ section{
     background: #ea1538;
 
 }
-section::before
+.section-contactus::before
 {
     content: "";
     position : absolute;
@@ -4123,12 +4123,12 @@ section::before
 
 @media (max-width: 991px)
 {
-    section
+    .section-contactus
     {
         background: #ffffff;
 
     }
-    section::before
+    .section-contactus::before
     {
         display:none;
 
