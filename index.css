@@ -4178,3 +4178,7 @@ background-color: #cb1a1a;
 
 }
 /*------------------- contactus ---------------------------*/
+.logo1:hover{
+    width: 80px;
+    height: 90px;
+}
